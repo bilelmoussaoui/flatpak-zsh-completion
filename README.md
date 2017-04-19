@@ -12,6 +12,7 @@ Flatpak completion for ZSH
 git clone https://github.com/bil-elmoussaoui/flatpak-zsh-completion
 ```
 2 - Copy the `flatpak` folder to your `oh-my-zsh/plugins/`
+
 3 - Add `flatpak` to `plugins` in `.zshrc`
 ```bash
 plugins=(flatpak)
