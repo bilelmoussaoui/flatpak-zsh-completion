@@ -1,6 +1,6 @@
 # flatpak-zsh-completion
 Flatpak completion for ZSH
-
+![Flatpak ZSH gif](flatpak-zsh.gif)
 
 # Depdencies
 -  `zsh`
