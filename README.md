@@ -10,17 +10,17 @@ Flatpak completion for ZSH
 
 
 # Installation
-### Using Antigen
+### Using Antigen :
 Bundle `flatpak-zsh-completion` in your `.zshrc`
 ```bash
   antigen bundle bil-elmoussaoui/flatpak-zsh-completion
 ```
-### Using zplug : 
+### Using ZPlug : 
 Load `flatpak-zsh-completion` as a plugin in your `.zshrc`
 ```bash
   zplug "bil-elmoussaoui/flatpak-zsh-completion", nice:10
 ```
-### Oh-my-ZSH:
+### Using Oh-my-ZSH :
 Clone this repository under the custom plugins directory
 ```bash
   git clone https://github.com/bil-elmoussaoui/flatpak-zsh-completion
