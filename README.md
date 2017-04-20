@@ -4,9 +4,9 @@ Flatpak completion for ZSH
 <img src="flatpak-zsh.gif" alt="Flatpak zsh gif" />
 </div>
 
-# Depdencies
--  `zsh`
--  `oh-my-zsh`
+# Dependencies
+- `zsh`
+- `oh-my-zsh`
 
 
 # Installation
