@@ -1,7 +1,7 @@
 # flatpak-zsh-completion
 Flatpak completion for Z shell (Zsh)
 
-![GitHub](https://img.shields.io/github/license/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge)
 
 ![flatpak-zsh](https://user-images.githubusercontent.com/15098724/50722513-41ac0c80-1085-11e9-850e-85cff36f5b1c.gif)
 
