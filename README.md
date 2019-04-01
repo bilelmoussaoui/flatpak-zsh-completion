@@ -1,10 +1,9 @@
-# <p align="center"> flatpak-zsh-completion </p>
+# Flatpak completion for Z shell (Zsh)
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/15098724/55282117-f8253380-52fa-11e9-95a3-ccae83b23034.png" alt="Flatpak logo" /> <img src="https://user-images.githubusercontent.com/15098724/55282119-02dfc880-52fb-11e9-90b3-6c2c43ad5883.png" alt="Zsh wizard logo" />
+  <img src="https://user-images.githubusercontent.com/15098724/55282117-f8253380-52fa-11e9-95a3-ccae83b23034.png" alt="Flatpak logo" />
+  <img src="https://user-images.githubusercontent.com/15098724/55282119-02dfc880-52fb-11e9-90b3-6c2c43ad5883.png" alt="Zsh wizard logo" />
 </p>
-
-## <p align="center"> Flatpak completion for Z shell (Zsh) </p>
 
 <p align="center">
     <a href="https://github.com/bilelmoussaoui/flatpak-zsh-completion/stargazers" alt="GitHub stars received">
@@ -16,7 +15,7 @@
     <a href="https://github.com/bilelmoussaoui/flatpak-zsh-completion/issues" alt="GitHub issues">
         <img src="https://img.shields.io/github/issues-raw/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge" /></a>
     <img src="https://img.shields.io/github/languages/code-size/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge"
-        alt="GitHub code size in bytes">
+        alt="Repository code size in bytes">
     <a href="https://github.com/bilelmoussaoui/flatpak-zsh-completion/commits/master" alt="GitHub last commit">
         <img src="https://img.shields.io/github/last-commit/bilelmoussaoui/flatpak-zsh-completion.svg?style=for-the-badge" /></a>
     <a href="https://github.com/bilelmoussaoui/flatpak-zsh-completion/blob/master/LICENSE" alt="Repository licensed under">
@@ -24,20 +23,21 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/15098724/50722513-41ac0c80-1085-11e9-850e-85cff36f5b1c.gif" alt="GIF animation of command completion occuring in a Z shell terminal" />
+    <img src="https://user-images.githubusercontent.com/15098724/50722513-41ac0c80-1085-11e9-850e-85cff36f5b1c.gif"
+        alt="GIF animation of command completion occuring in a Z shell terminal" />
 </p>
 
 ## Dependencies
 
-- `zsh`
+- [zsh](http://zsh.sourceforge.net/)
 
 ## Compatible Z shell plugin frameworks
 
-- [`antibody`](https://getantibody.github.io/)
-- [`antigen`](https://antigen.sharats.me/)
-- [`oh-my-zsh`](https://ohmyz.sh/)
-- [`zgen`](https://github.com/tarjoilija/zgen)
-- [`zplug`](https://zplug.sh/)
+- [antibody](https://getantibody.github.io/)
+- [antigen](https://antigen.sharats.me/)
+- [oh-my-zsh](https://ohmyz.sh/)
+- [zgen](https://github.com/tarjoilija/zgen)
+- [zplug](https://zplug.sh/)
 
 ## Installation
 
@@ -78,8 +78,7 @@ plugins+=(flatpak)
 
 ### Using Zgen
 
-- Place the following string on its own line  in `.zshrc`
-directly after `source "${HOME}/.zgen/zgen.zsh"`
+- Place the following string on its own line  in `.zshrc` directly after `source "${HOME}/.zgen/zgen.zsh"`
 
 ```bash
 zgen load bilelmoussaoui/flatpak-zsh-completion
@@ -87,8 +86,7 @@ zgen load bilelmoussaoui/flatpak-zsh-completion
 
 ### Using ZPlug
 
-Add this string on its own line in `.zshrc` between
-`source ~/.zplug/init.zsh` and `zplug load`
+Add this string on its own line in `.zshrc` between `source ~/.zplug/init.zsh` and `zplug load`
 
 ```bash
 zplug "bilelmoussaoui/flatpak-zsh-completion", nice:10
@@ -108,11 +106,9 @@ Choose one of the methods below to activate the plugin on your system:
 source ${ZDOTDIR:-$HOME}/.zshrc
 ```
 
-## Domating
+## Donating
 
-<p>
-    <a href="https://www.paypal.me/BilalELMoussaoui" alt="PayPal donations can be made here"> <img src="https://img.shields.io/static/v1.svg?label=PayPal&logo=paypal&logoColor=#00457C&logoWidth=40&labelColor=grey&message=Donate+Here&color=success&style=popout-square" /></a>
-</p>
+<p><img src="https://img.shields.io/static/v1.svg?label=PayPal&logo=paypal&logoWidth=30&labelColor=grey&color=success&message=Donate%20Here&style=popout-square&link=https://www.paypal.me/BilalELMoussaoui" /></p>
 
 ## License
 
